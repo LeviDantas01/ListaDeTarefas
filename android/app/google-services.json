@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "466894168008",
+    "project_id": "lista-de-tarefas-1795d",
+    "storage_bucket": "lista-de-tarefas-1795d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466894168008:android:43c1c1acd7e0cb8264aafd",
+        "android_client_info": {
+          "package_name": "com.example.lista_de_tarefas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466894168008-3h0oqtr4lujt2g4dtrvpq7bgste5ln82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaQFs4srPCcUsyofELrad5tMnIrYk24_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466894168008-3h0oqtr4lujt2g4dtrvpq7bgste5ln82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
